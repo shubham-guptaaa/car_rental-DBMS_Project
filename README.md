@@ -41,7 +41,7 @@ This is a **Car Rental System** developed as part of our Database Management Sys
    ```
 2. Navigate to the project directory:
    ```bash
-   cd car-rental-system
+   cd Car_Rental-Django
    ```
 3. Install required dependencies:
    ```bash
